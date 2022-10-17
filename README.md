@@ -1,2 +1,2 @@
-# HTMLmodelo1
-Trata-se de uma página simples em HTML com imagens e alguns links. 
+# WEBmodelo1
+Trata-se de uma página web simples com imagens e alguns links. 
